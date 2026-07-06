@@ -6,7 +6,7 @@ Machine Learning & Flutter enthusiast based in Mumbai, India. I like building sm
 - 🌱 Learning more about data analysis and building end-to-end ML products
 - 💬 Ask me about Flutter, TensorFlow Lite, or computer-vision side projects
 
-**Some projects I'm proud of:**
+**Featured projects:**
 - [aura-extension](https://github.com/Aakanksha3010/aura-extension) — AI virtual try-on Chrome extension using Google Gemini
 - [Data-analysis-on-Matiks](https://github.com/Aakanksha3010/Data-analysis-on-Matiks) — behavioral & revenue analysis to surface product opportunities
 - [Driver-Assistant-Flutter-App](https://github.com/Aakanksha3010/Driver-Assistant-Flutter-App) — real-time drowsiness detection app built with Flutter & TFLite
