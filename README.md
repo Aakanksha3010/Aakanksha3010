@@ -1,16 +1,16 @@
 ### Hey there fellas 👋 I'm Aakanksha
 
-<!--
-**Aakanksha3010/Aakanksha3010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Machine Learning & Flutter enthusiast based in Mumbai, India. I like building small, practical projects — from on-device ML apps to browser extensions — and I'm always exploring new tech (when I'm not binge-watching anime).
 
-Here are some ideas to get you started:
+- 🔭 Currently exploring applied ML and AI-powered tooling (like Chrome extensions with Gemini)
+- 🌱 Learning more about data analysis and building end-to-end ML products
+- 💬 Ask me about Flutter, TensorFlow Lite, or computer-vision side projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Some projects I'm proud of:**
+- [aura-extension](https://github.com/Aakanksha3010/aura-extension) — AI virtual try-on Chrome extension using Google Gemini
+- [Data-analysis-on-Matiks](https://github.com/Aakanksha3010/Data-analysis-on-Matiks) — behavioral & revenue analysis to surface product opportunities
+- [Driver-Assistant-Flutter-App](https://github.com/Aakanksha3010/Driver-Assistant-Flutter-App) — real-time drowsiness detection app built with Flutter & TFLite
+- [Currency-detection-App](https://github.com/Aakanksha3010/Currency-detection-App) — Flutter app that classifies Indian banknotes
+- [ds_salary_project](https://github.com/Aakanksha3010/ds_salary_project) — data science salary prediction
+
+📫 Feel free to explore my pinned repos below, and star/fork anything you find useful!
