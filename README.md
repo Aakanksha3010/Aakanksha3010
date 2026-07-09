@@ -1,16 +1,26 @@
-### Hey there fellas 👋 I'm Aakanksha
+# Hi, I'm Aakanksha 👋
 
-Machine Learning & Flutter enthusiast based in Mumbai, India. I like building small, practical projects — from on-device ML apps to browser extensions — and I'm always exploring new tech (when I'm not binge-watching anime).
+I build enterprise AI products — the kind that make it out of the demo and into real, regulated workflows.
 
-- 🔭 Currently exploring applied ML and AI-powered tooling (like Chrome extensions with Gemini)
-- 🌱 Learning more about data analysis and building end-to-end ML products
-- 💬 Ask me about Flutter, TensorFlow Lite, or computer-vision side projects
+My work sits at the intersection of AI engineering and product: multi-agent systems, RAG/KAG retrieval, and the layer most teams skip — governed context, evaluation, and actually knowing whether a system is working before users do.
 
-**Featured projects:**
-- [aura-extension](https://github.com/Aakanksha3010/aura-extension) — AI virtual try-on Chrome extension using Google Gemini
-- [Data-analysis-on-Matiks](https://github.com/Aakanksha3010/Data-analysis-on-Matiks) — behavioral & revenue analysis to surface product opportunities
-- [Driver-Assistant-Flutter-App](https://github.com/Aakanksha3010/Driver-Assistant-Flutter-App) — real-time drowsiness detection app built with Flutter & TFLite
-- [Currency-detection-App](https://github.com/Aakanksha3010/Currency-detection-App) — Flutter app that classifies Indian banknotes
-- [ds_salary_project](https://github.com/Aakanksha3010/ds_salary_project) — data science salary prediction
+I'm currently **Product Owner @ Sapiens**, building enterprise AI products end to end.
 
-📫 Feel free to explore my pinned repos below, and star/fork anything you find useful!
+## What I work on
+
+- **Multi-agent systems** — state transitions, tool calling, fallback & error handling
+- **RAG / KAG** — retrieval you can trust, grounded in your own definitions
+- **AI evaluation** — golden datasets, rubrics, regression tracking, quality gates in CI/CD
+- **AI product strategy** — model routing by task complexity, build-vs-buy with MCP
+- **Applied ML** — on-device apps with TensorFlow Lite, Flutter, and computer vision
+
+## A few projects
+
+- **[crossbook](https://github.com/Aakanksha3010/crossbook)** — AI product-discovery engine (RAG over Supabase pgvector + Claude) that turns raw market signals into a ranked build / kill / ignore decision
+- **[aura-extension](https://github.com/Aakanksha3010/aura-extension)** — AI virtual try-on Chrome extension powered by Google Gemini
+- **[Driver-Assistant-Flutter-App](https://github.com/Aakanksha3010/Driver-Assistant-Flutter-App)** — real-time drowsiness detection built with Flutter & TFLite
+- **[ds_salary_project](https://github.com/Aakanksha3010/ds_salary_project)** — end-to-end data science salary prediction
+
+## Let's connect
+
+📧 Explore my pinned repos below, or find me on [LinkedIn](https://www.linkedin.com/in/aakankshasingh3010/).
