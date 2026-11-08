@@ -4,7 +4,7 @@ I build enterprise AI products — the kind that make it out of the demo and int
 
 My work sits at the intersection of AI engineering and product: multi-agent systems, RAG/KAG retrieval, and the layer most teams skip — governed context, evaluation, and actually knowing whether a system is working before users do.
 
-I'm currently **Product Owner @ Sapiens**, building enterprise AI products end to end.
+I'm currently **AI PM @ Sapiens**, building enterprise AI products end to end.
 
 ## What I work on
 
